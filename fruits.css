@@ -1,0 +1,23 @@
+body{
+background-size:cover;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#Back{
+
+}
+#Number{
+font-size:20px;
+background-color: red;
+border-radius:100px;
+}
+canvas{
+box-shadow: 10px 10px 10px red ;
+border-radius: 25px;
+margin-top:30px;
+}
